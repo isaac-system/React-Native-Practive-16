@@ -16,7 +16,7 @@ import Success from "./Cart/Success";
 import Favourite from "./Favourite/Favourite";
 
 // Notification
-import Notification from "./Notifica  tion/Notification";
+import Notification from "./Notification/Notification";
 
 //Food Detail
 import FoodDetail from "./FoodDetail/FoodDetail";
